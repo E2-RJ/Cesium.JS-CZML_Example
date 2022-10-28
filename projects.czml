@@ -1,0 +1,55 @@
+[
+    {
+        "id":"document",
+        "name":"Open Eye CZML Points",
+        "version":"1.0"
+    },
+    {
+    "id":"liverpool-air",
+    "name":"Liverpool Air Quality",
+    "position":
+        {
+            "cartographicDegrees":[-2.9950342, 53.403815, 1000]
+        },
+    "point": 
+        {
+            "color": { "rgba": [255, 255, 255, 200]},
+            "outlineColor": { "rgba": [24, 117, 202, 255]},
+            "outlineWidth":2.0,
+            "pixelSize":10.0,
+            "show":true
+        }
+    },
+    {
+    "id":"tanzania-ilota",
+    "name":"Tanzania, Ilota",
+    "position":
+        {
+            "cartographicDegrees":[33.262276, -8.896396, 1000]
+        },
+    "point": 
+        {
+            "color": { "rgba": [255, 255, 255, 200]},
+            "outlineColor": { "rgba": [24, 117, 202, 255]},
+            "outlineWidth":2.0,
+            "pixelSize":10.0,
+            "show":true
+        }
+    },
+    {
+    "id":"Exploring the Climate Emergency",
+    "name":"Exploring the Climate Emergency",
+    "position":
+        {
+            "cartographicDegrees":[51.37191, 25.2842534, 1000]
+        },
+    "point": 
+        {
+            "color": { "rgba": [255, 255, 255, 200]},
+            "outlineColor": { "rgba": [24, 117, 202, 255]},
+            "outlineWidth":2.0,
+            "pixelSize":10.0,
+            "show":true
+        }
+    }
+]
